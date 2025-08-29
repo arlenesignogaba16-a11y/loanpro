@@ -52,9 +52,9 @@
             this.guna2Panel1.Controls.Add(this.linkLabel1);
             this.guna2Panel1.Controls.Add(this.label1);
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(351, 76);
+            this.guna2Panel1.Location = new System.Drawing.Point(379, 79);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(461, 337);
+            this.guna2Panel1.Size = new System.Drawing.Size(429, 337);
             this.guna2Panel1.TabIndex = 0;
             // 
             // guna2Button1
@@ -67,7 +67,7 @@
             this.guna2Button1.FillColor = System.Drawing.Color.White;
             this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button1.ForeColor = System.Drawing.Color.DimGray;
-            this.guna2Button1.Location = new System.Drawing.Point(161, 245);
+            this.guna2Button1.Location = new System.Drawing.Point(141, 262);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(145, 45);
             this.guna2Button1.TabIndex = 12;
@@ -93,7 +93,7 @@
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.PlaceholderText = "Username";
             this.txtUsername.SelectedText = "";
-            this.txtUsername.Size = new System.Drawing.Size(397, 38);
+            this.txtUsername.Size = new System.Drawing.Size(350, 38);
             this.txtUsername.TabIndex = 18;
             // 
             // txtPassword
@@ -115,7 +115,7 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PlaceholderText = "Password";
             this.txtPassword.SelectedText = "";
-            this.txtPassword.Size = new System.Drawing.Size(397, 38);
+            this.txtPassword.Size = new System.Drawing.Size(350, 38);
             this.txtPassword.TabIndex = 17;
             this.txtPassword.IconRightClick += new System.EventHandler(this.guna2TextBox2_IconRightClick);
             // 
@@ -147,7 +147,7 @@
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.LinkColor = System.Drawing.Color.White;
-            this.linkLabel1.Location = new System.Drawing.Point(322, 232);
+            this.linkLabel1.Location = new System.Drawing.Point(275, 226);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(109, 16);
             this.linkLabel1.TabIndex = 14;
