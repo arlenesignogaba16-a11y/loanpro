@@ -59,7 +59,8 @@
             // 
             // guna2Button1
             // 
-            this.guna2Button1.BorderRadius = 10;
+            this.guna2Button1.BorderColor = System.Drawing.Color.Goldenrod;
+            this.guna2Button1.BorderRadius = 15;
             this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
