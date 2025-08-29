@@ -80,7 +80,7 @@ namespace LoanPro
             // Username Validation: Must contain "@" and end with "gmail.com"
             if (!enteredUsername.Contains("@") && !enteredUsername.EndsWith("gmail.com"))
             {
-                MessageBox.Show("Username must be a valid Gmail address (e.g., example@gmail.com).", "Invalid Username", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Username must be a valid Gmaigl address (e.g., example@gmail.com).", "Invalid Username", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 

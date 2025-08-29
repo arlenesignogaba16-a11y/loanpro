@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|solutionrelative:loanpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\loanpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|solutionrelative:loanpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\loanpro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|solutionrelative:loanpro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\loanpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A32E082-58E2-4AAB-8050-C56C9DB1554D}|LoanPro\\LoanPro.csproj|solutionrelative:loanpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LoanPro||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -47,25 +47,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\LoanPro\\Form3.cs",
               "RelativeDocumentMoniker": "LoanPro\\Form3.cs",
               "ToolTip": "C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\LoanPro\\Form3.cs [Design]",
               "RelativeToolTip": "LoanPro\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:27:51.086Z"
+              "WhenOpened": "2025-08-27T03:27:51.086Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\LoanPro\\Form2.cs",
               "RelativeDocumentMoniker": "LoanPro\\Form2.cs",
               "ToolTip": "C:\\Users\\Arlene Gaba\\source\\repos\\LoanPro\\LoanPro\\Form2.cs [Design]",
               "RelativeToolTip": "LoanPro\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:25:39.681Z"
+              "WhenOpened": "2025-08-27T03:25:39.681Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
